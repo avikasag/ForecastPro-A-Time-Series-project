@@ -2,18 +2,14 @@
 A Time series project with seasonal and non-seasonal dataset.
 
 
-ForecastPro: Time Series Modeling of Seasonal and Non-Seasonal Data
+Built time series models (ARIMA, SARIMA, GARCH) on seasonal and non-seasonal datasets to forecast retail profit and stock price trends.
 
-DualTrack Forecasting: ARIMA, SARIMA & GARCH Modeling for Retail and Stock Trends
+Performed stationarity testing (ADF), model selection (AIC/BIC), and residual diagnostics (Shapiro-Wilk, Ljung-Box) for robust forecasting.
 
-Time Series Forecasting and Model Diagnostics on Seasonal and Financial Data
+Developed forecasts using Python with train-test splits and full-data approaches, enhancing predictive reliability and model interpretability.
 
-Data-Driven Forecasting: A Comparative Study of SARIMA, ARIMA, and GARCH Models
+Visualized autocorrelation patterns using ACF/PACF plots to guide model architecture and improve forecast accuracy.
 
-Predictive Analytics with Time Series: Retail & Financial Insights
+Improved model fit by applying differencing and detrending techniques to ensure time series stationarity.
 
-Retail & Market Forecasting Using Advanced Time Series Models
-
-Temporal Intelligence: Forecasting Retail Profits and Stock Prices
-
-Seasonality & Volatility Forecasting with Time Series Models
+Identified limitations in ARIMA/GARCH models and proposed future enhancement using LSTM or hybrid ML models.
